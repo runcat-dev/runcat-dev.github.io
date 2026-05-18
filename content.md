@@ -80,7 +80,7 @@ An endless game ported to Game Boy Advance.
 
 An endless game ported to Playdate, the mini console with a yellow crank.
 
-`Coming soon`
+[GitHub Repository](https://github.com/runcat-dev/playdate-runcat)
 :::
 
 ## Discord
