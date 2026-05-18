@@ -71,7 +71,7 @@ Classic RunCat, designed for Windows.
 
 An endless game ported to Game Boy Advance.
 
-`Coming soon`
+[GitHub Repository](https://github.com/runcat-dev/gba-runcat)
 :::
 
 :::warp playdate
