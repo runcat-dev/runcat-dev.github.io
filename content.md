@@ -59,7 +59,7 @@ Next-generation RunCat, redesigned for macOS.
 
 Classic RunCat, designed for Windows.
 
-`Coming soon`
+[GitHub Repository](https://github.com/runcat-dev/RunCat365)
 :::
 
 ~ | [~gba] | [~playdate] |
