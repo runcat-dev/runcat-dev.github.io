@@ -50,7 +50,7 @@ We look forward to welcoming any developers who resonate with these values.
 
 Next-generation RunCat, redesigned for macOS.
 
-`Coming soon`
+[GitHub Repository](https://github.com/runcat-dev/RunCatNeo)
 :::
 
 :::warp win
